@@ -1,4 +1,5 @@
-<h1 align="center">
+<h1 align="center"> ¡Estoy feliz de hacer mi primera edición!
+
 <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
 </h1><br>
 
